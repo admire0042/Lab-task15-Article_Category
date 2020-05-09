@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\bin\Debug\netcoreapp3.1\ArticleTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\lab-task15\ArticleTest\obj\Debug\netcoreapp3.1\ArticleTest.genruntimeconfig.cache
